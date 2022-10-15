@@ -2,7 +2,7 @@
 
 
 
-Simple table project that has the advanced tables functionalities from https://datatables.net .
+Simple Table Project That Has The Advanced Tables Functionalities From https://datatables.net .
 
 THIS DATA IN THIS PROJECT ARE DEMO AND FOR DEMONSTRATION PURPOSES ONLY.
 
